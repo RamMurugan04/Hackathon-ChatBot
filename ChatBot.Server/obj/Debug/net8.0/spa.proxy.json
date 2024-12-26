@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51296",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\..\\chatbot.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

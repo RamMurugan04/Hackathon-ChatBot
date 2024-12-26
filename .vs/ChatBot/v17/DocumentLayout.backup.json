@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|c:\\users\\rammu\\onedrive\\desktop\\msc ss\\8th sem\\xmas-hackathon\\chatbot\\chatbot.server\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|solutionrelative:chatbot.server\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|c:\\users\\rammu\\onedrive\\desktop\\msc ss\\8th sem\\xmas-hackathon\\chatbot\\chatbot.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|solutionrelative:chatbot.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|c:\\users\\rammu\\onedrive\\desktop\\msc ss\\8th sem\\xmas-hackathon\\chatbot\\chatbot.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|solutionrelative:chatbot.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96FA2A0-45EA-4310-AB43-E325391D3D9A}|chatbot.client\\chatbot.client.esproj|c:\\users\\rammu\\onedrive\\desktop\\msc ss\\8th sem\\xmas-hackathon\\chatbot\\chatbot.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D96FA2A0-45EA-4310-AB43-E325391D3D9A}|chatbot.client\\chatbot.client.esproj|solutionrelative:chatbot.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|c:\\users\\rammu\\onedrive\\desktop\\msc ss\\8th sem\\xmas-hackathon\\chatbot\\chatbot.server\\helpers\\modelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|solutionrelative:chatbot.server\\helpers\\modelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|c:\\users\\rammu\\onedrive\\desktop\\msc ss\\8th sem\\xmas-hackathon\\chatbot\\chatbot.server\\helpers\\imodelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B658F510-A4E8-41AC-B884-D2BA9A56E923}|ChatBot.Server\\ChatBot.Server.csproj|solutionrelative:chatbot.server\\helpers\\imodelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatBot.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatBot.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T13:24:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\chatbot.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "chatbot.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\chatbot.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "chatbot.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-25T13:08:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IModelHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Helpers\\IModelHelper.cs",
+              "RelativeDocumentMoniker": "ChatBot.Server\\Helpers\\IModelHelper.cs",
+              "ToolTip": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Helpers\\IModelHelper.cs",
+              "RelativeToolTip": "ChatBot.Server\\Helpers\\IModelHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:24:18.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ChatBot.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Program.cs",
+              "RelativeToolTip": "ChatBot.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:08:33.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Helpers\\ModelHelper.cs",
+              "RelativeDocumentMoniker": "ChatBot.Server\\Helpers\\ModelHelper.cs",
+              "ToolTip": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Helpers\\ModelHelper.cs",
+              "RelativeToolTip": "ChatBot.Server\\Helpers\\ModelHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:10:00.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatBotController.cs",
+              "DocumentMoniker": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Controllers\\ChatBotController.cs",
+              "RelativeDocumentMoniker": "ChatBot.Server\\Controllers\\ChatBotController.cs",
+              "ToolTip": "C:\\Users\\rammu\\OneDrive\\Desktop\\MSc SS\\8th sem\\xmas-hackathon\\ChatBot\\ChatBot.Server\\Controllers\\ChatBotController.cs",
+              "RelativeToolTip": "ChatBot.Server\\Controllers\\ChatBotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:06:05.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
